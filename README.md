@@ -1,10 +1,10 @@
 # SPLIT BILL APP
 
-This Project is made with Next JS v15.0.2 and with Ant Design as a CSS Framework.
+This Project is made with Next JS v14.2.16 and with Ant Design as a CSS Framework.
 
 ## Requirement before run this project
 
-- Node Js : v18.17.0 (minimum version)
+- Node Js : v18.18.0 (minimum version)
 - Bun : v1.1.121 (bun version installed in my local device)
 
 ## How to run this project?
