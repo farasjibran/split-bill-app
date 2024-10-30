@@ -2,6 +2,8 @@
 
 This Project is made with Next JS v14.2.16 and with Ant Design as a CSS Framework.
 
+![alt text](screenshot-website.png)
+
 ## Requirement before run this project
 
 - Node Js : v18.18.0 (minimum version)
